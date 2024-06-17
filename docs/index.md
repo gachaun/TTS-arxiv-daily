@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.14
+## Updated on 2024.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner**|Dongchao Yang et.al.|[2406.10056](http://arxiv.org/abs/2406.10056)|null|
+|**2024-06-14**|**MMM: Multi-Layer Multi-Residual Multi-Stream Discrete Speech Representation from Self-supervised Learning Model**|Jiatong Shi et.al.|[2406.09869](http://arxiv.org/abs/2406.09869)|null|
+|**2024-06-13**|**DisfluencySpeech -- Single-Speaker Conversational Speech Dataset with Paralanguage**|Kyra Wang et.al.|[2406.08820](http://arxiv.org/abs/2406.08820)|null|
+|**2024-06-13**|**Generating Speakers by Prompting Listener Impressions for Pre-trained Multi-Speaker Text-to-Speech Systems**|Zhengyang Chen et.al.|[2406.08812](http://arxiv.org/abs/2406.08812)|null|
+|**2024-06-13**|**DubWise: Video-Guided Speech Duration Control in Multimodal LLM-based Text-to-Speech for Dubbing**|Neha Sahipjohn et.al.|[2406.08802](http://arxiv.org/abs/2406.08802)|null|
+|**2024-06-12**|**Training Data Augmentation for Dysarthric Automatic Speech Recognition by Text-to-Dysarthric-Speech Synthesis**|Wing-Zin Leung et.al.|[2406.08568](http://arxiv.org/abs/2406.08568)|null|
 |**2024-06-12**|**Audio-conditioned phonemic and prosodic annotation for building text-to-speech models from unlabeled speech data**|Yuma Shirahata et.al.|[2406.08111](http://arxiv.org/abs/2406.08111)|null|
 |**2024-06-12**|**VECL-TTS: Voice identity and Emotional style controllable Cross-Lingual Text-to-Speech**|Ashishkumar Gudmalwar et.al.|[2406.08076](http://arxiv.org/abs/2406.08076)|null|
 |**2024-06-12**|**LibriTTS-P: A Corpus with Speaking Style and Speaker Identity Prompts for Text-to-Speech and Style Captioning**|Masaya Kawamura et.al.|[2406.07969](http://arxiv.org/abs/2406.07969)|**[link](https://github.com/line/libritts-p)**|
