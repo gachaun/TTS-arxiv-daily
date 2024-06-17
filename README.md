@@ -1,5 +1,4 @@
 ## Updated on 2024.06.17
-> Usage instructions: [here](./docs/README.md#usage)
 > Usage instructions: [here](https://github.com/Vincentqyw/cv-arxiv-daily/blob/main/docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
