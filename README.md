@@ -1,4 +1,4 @@
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -22,7 +22,7 @@
 |**2024-07-04**|**Improving Accented Speech Recognition using Data Augmentation based on Unsupervised Text-to-Speech Synthesis**|Cong-Thanh Do et.al.|[2407.04047](http://arxiv.org/abs/2407.04047)|null|
 |**2024-07-04**|**Optimizing a-DCF for Spoofing-Robust Speaker Verification**|Oğuzhan Kurnaz et.al.|[2407.04034](http://arxiv.org/abs/2407.04034)|null|
 |**2024-07-04**|**On the Effectiveness of Acoustic BPE in Decoder-Only TTS**|Bohan Li et.al.|[2407.03892](http://arxiv.org/abs/2407.03892)|null|
-|**2024-07-04**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236](http://arxiv.org/abs/2407.03236)|**[link](https://github.com/abjadai/catt)**|
+|**2024-07-14**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236](http://arxiv.org/abs/2407.03236)|**[link](https://github.com/abjadai/catt)**|
 |**2024-07-02**|**Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization**|Yuchen Hu et.al.|[2407.02243](http://arxiv.org/abs/2407.02243)|null|
 |**2024-07-02**|**TTSlow: Slow Down Text-to-Speech with Efficiency Robustness Evaluations**|Xiaoxue Gao et.al.|[2407.01927](http://arxiv.org/abs/2407.01927)|null|
 |**2024-07-01**|**Lightweight Zero-shot Text-to-Speech with Mixture of Adapters**|Kenichi Fujita et.al.|[2407.01291](http://arxiv.org/abs/2407.01291)|null|
@@ -634,5 +634,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
 
